@@ -1,0 +1,21 @@
+name: fluid_bottom_bar
+description: >-
+  A Flutter bottom navigation bar with a liquid selection indicator that glides
+  between tabs with spring physics, stretching and wobbling as it moves.
+version: 0.1.0
+repository: https://github.com/shriyapandya/fluid-bottom-bar
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
